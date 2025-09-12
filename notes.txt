@@ -1,0 +1,4 @@
+The close you want to get to me,the better your values have to be.
+We measure time in linear scale but in book "siddhartha" it is compared to river (ie,non-linear)
+python -u "c:\Users\User\Desktop\Learningpy\tempCodeRunnerFile.py"
+We see time as a linear sclae but in "siddhartha" book it is compared with water(ie,non-linear)

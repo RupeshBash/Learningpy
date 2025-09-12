@@ -4,7 +4,7 @@ class cricket:
         self.role = role
 
     def printdetails(self):
-            print("lets play cricket")
+             print(f"{self.name} is playing cricket as a {self.role}")
 
 class football:
     def __init__(self, name, role):
